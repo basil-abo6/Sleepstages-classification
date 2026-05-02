@@ -257,6 +257,3 @@ pip install mne scipy scikit-learn tqdm torch torchvision
 
 ---
 
-## License
-
-This project is for academic and research purposes. Please refer to the [MESA dataset usage agreement](https://sleepdata.org/datasets/mesa) for data licensing terms.
