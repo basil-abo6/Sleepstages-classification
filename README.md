@@ -1,10 +1,10 @@
-# 🛌 Sleep Stage Classification from ECG (Single-Channel)
+#  Sleep Stage Classification from ECG (Single-Channel)
 
 A deep learning pipeline that automatically classifies **5 sleep stages** (Wake, N1, N2, N3, REM) using only a **single-channel ECG (EKG) signal** — no EEG required. Built with PyTorch and trained on the [MESA Sleep Study](https://sleepdata.org/datasets/mesa) dataset.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
@@ -224,11 +224,11 @@ pip install mne scipy scikit-learn tqdm torch torchvision
 ## Project Structure
 
 ```
-📁 Repository
+ Repository
 ├── Sleepstages_classification_project.ipynb   # Main notebook
 └── README.md
 
-📁 Google Drive (generated during run)
+ Google Drive (generated during run)
 └── MESA/
     ├── chunk_X_*.npy          # Intermediate per-subject chunks
     ├── chunk_y_*.npy
